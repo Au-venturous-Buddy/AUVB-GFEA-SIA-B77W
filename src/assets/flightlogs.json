@@ -1,0 +1,4 @@
+[
+    {"date": "2012-04-20", "number": "SQ918", "tail": "9V-SRG", "from": "SIN", "to": "MNL", "status": "COMPLETED"},
+    {"date": "2012-04-16", "number": "SQ915", "tail": "", "from": "MNL", "to": "SIN", "status": "COMPLETED"}
+]
